@@ -100,8 +100,9 @@ npm run build
 
 ## 🙏 Acknowledgments
 
-- Built with [Rocket.new](https://rocket.new)
+- Built with 💝(Dharma dev)
 - Powered by React and Vite
 - Styled with Tailwind CSS
+
 
 
