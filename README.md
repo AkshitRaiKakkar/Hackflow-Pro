@@ -100,9 +100,10 @@ npm run build
 
 ## 🙏 Acknowledgments
 
-- Built with 💝(Dharma dev)
+- Built with 💝 by Dharma dev
 - Powered by React and Vite
 - Styled with Tailwind CSS
+
 
 
 
